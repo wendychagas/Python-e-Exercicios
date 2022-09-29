@@ -1,3 +1,4 @@
 print('Olá, Mundo!')
-msg = (input('Hello, World!'))
+msg = 'Hello, World!'
 print(msg)
+
