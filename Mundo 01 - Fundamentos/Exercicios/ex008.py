@@ -1,4 +1,3 @@
-#-------------------------------------------------------------
 m = float(input('Medida (M) = '))
 dm = m*10 # decimetro x10
 cm = m*100 # centimetro x100
@@ -12,7 +11,4 @@ print(f'Milímetros = {mm}')
 print(f'Decâmetro = {dam}')
 print(f'Hectometro = {hec}')
 print(f'Kilometro = {km}')
-#-------------------------------------------------------------
-
-
 
