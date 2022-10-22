@@ -38,7 +38,6 @@ frase2.lstrip() # similar ao rstrip, variação l, funciona pela esquerda;
 frase.split() # divide cada palavra em uma indexação nova; gera basicamente uma lista; ['Curso', 'em', 'Video', 'Python']
 
 # Junção;
-
 '-'.join(frase) # juntar a cadeia de caracteres com hífen; Curso-em-Video-Python
 
 
