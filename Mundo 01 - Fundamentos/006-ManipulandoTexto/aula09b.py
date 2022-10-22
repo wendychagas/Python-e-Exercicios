@@ -30,19 +30,3 @@ print(f'Posição [1] -> {dividido[1]}')
 print(f'Posição [2] -> {dividido[2]}')
 print(f'Posição [3] -> {dividido[3]}')
 print(f'Pegar o item da lista[2] e o indice desse item[3] -> {dividido[2][3]}')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
