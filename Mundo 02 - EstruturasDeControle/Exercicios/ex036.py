@@ -1,0 +1,1 @@
+valor_casa = float(input('Qual o valor da casa R$'))
